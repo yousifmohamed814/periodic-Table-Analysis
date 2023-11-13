@@ -1,0 +1,119 @@
+,Element,Symbol,ChemicalNature,AtomicMass,NumberofNeutrons,NumberofProtons,NumberofElectrons,Period,Group,Phase,Radioactive,Natural,Type,AtomicRadius,Electronegativity,FirstIonization,Density,MeltingPoint,BoilingPoint,NumberOfIsotopes,Discoverer,Year_of_Discover,SpecificHeat,NumberofShells,NumberofValence,Price USD/kg,ReferencePrice
+0,Hydrogen,H,NonMetal,1.007,0.0,1.0,1.0,1.0,1.0,gas,no,Natural,Nonmetal,0.79,2.2,13.5984,8.99e-05,14.175,20.28,3.0,Cavendish,1766.0,14.304,1.0,1.0,23.64,"0.06, USD per standard cubic foot (scf)"
+1,Helium,He,NonMetal,4.002,2.0,2.0,2.0,1.0,18.0,gas,no,Natural,Noble Gas,0.49,0,24.5874,0.000179,0,4.22,5.0,Janssen,1868.0,5.193,1.0,0,40.39,"7.21, USD per normal cubic meter"
+2,Lithium,Li,Metal,6.941,4.0,3.0,3.0,2.0,1.0,solid,no,Natural,Alkali Metal,2.1,0.98,5.3917,0.534,453.85,1615.0,5.0,Arfvedson,1817.0,3.582,2.0,1.0,115.70,"800,000.00, CNY per metric ton"
+3,Beryllium,Be,Metal,9.012,5.0,4.0,4.0,2.0,2.0,solid,no,Natural,Alkaline Earth Metal,1.4,1.57,9.3227,1.85,1560.15,2742.0,6.0,Vaulquelin,1798.0,1.825,2.0,2.0,831.60,"5,750.00, CNY per kilogram"
+4,Boron,B,Metalloid,10.811,6.0,5.0,5.0,2.0,13.0,solid,no,Natural,Metalloid,1.2,2.04,8.298,2.34,2573.15,4200.0,6.0,Gay-Lussac,1808.0,1.026,2.0,3.0,"2,386.00","16,500.00, CNY per kilogram"
+5,Carbon,C,NonMetal,12.011,6.0,6.0,6.0,2.0,14.0,solid,no,Natural,Nonmetal,0.91,2.55,11.2603,2.27,3948.15,4300.0,7.0,Prehistoric,0,0.709,2.0,4.0,24.00,"2.40, USD per 100 grams"
+6,Nitrogen,N,NonMetal,14.007,7.0,7.0,7.0,2.0,15.0,gas,no,Natural,Nonmetal,0.75,3.04,14.5341,0.00125,63.29,77.36,8.0,Rutherford,1772.0,1.04,2.0,5.0,2.77,"0.09, USD per standard cubic foot (scf)"
+7,Oxygen,O,NonMetal,15.999,8.0,8.0,8.0,2.0,16.0,gas,no,Natural,Nonmetal,0.65,3.44,13.6181,0.00143,50.5,90.2,8.0,Priestley/Scheele,1774.0,0.918,2.0,6.0,0.64,"0.02, USD per standard cubic foot (scf)"
+8,Fluorine,F,NonMetal,18.998,10.0,9.0,9.0,2.0,17.0,gas,no,Natural,Halogen,0.57,3.98,17.4228,0.0017,53.63,85.03,6.0,Moissan,1886.0,0.824,2.0,7.0,"1,900.00","190.00, USD per 100 grams"
+9,Neon,Ne,NonMetal,20.18,10.0,10.0,10.0,2.0,18.0,gas,no,Natural,Noble Gas,0.51,0,21.5645,0.0009,24.703,27.07,8.0,Ramsay and Travers,1898.0,1.03,2.0,8.0,629.90,"504.00, EUR per normal cubic meter"
+10,Sodium,Na,Metal,22.99,12.0,11.0,11.0,3.0,1.0,solid,no,Natural,Alkali Metal,2.2,0.93,5.1391,0.971,371.15,1156.0,7.0,Davy,1807.0,1.228,3.0,1.0,3.04,"21,000.00, CNY per metric ton"
+11,Magnesium,Mg,Metal,24.305,12.0,12.0,12.0,3.0,2.0,solid,no,Natural,Alkaline Earth Metal,1.7,1.31,7.6462,1.74,923.15,1363.0,8.0,Black,1755.0,1.023,3.0,2.0,2.26,"2.26, USD per kilogram"
+12,Aluminium,0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,1.91,"1,911.00, USD per metric ton"
+13,Silicon,Si,Metalloid,28.086,14.0,14.0,14.0,3.0,14.0,solid,no,Natural,Metalloid,1.5,1.9,8.1517,2.33,1683.15,3538.0,8.0,Berzelius,1824.0,0.705,3.0,4.0,1.91,"1,800.61, EUR per metric ton"
+14,Phosphorus,P,NonMetal,30.974,16.0,15.0,15.0,3.0,15.0,solid,no,Natural,Nonmetal,1.2,2.19,10.4867,1.82,317.25,553.0,7.0,BranBrand,1669.0,0.769,3.0,5.0,300.00,"30.00, USD per 100 grams"
+15,Sulfur,S,NonMetal,32.065,16.0,16.0,16.0,3.0,16.0,solid,no,Natural,Nonmetal,1.1,2.58,10.36,2.07,388.51,717.8,10.0,Prehistoric,0,0.71,3.0,6.0,0.10,"100.00, USD per metric ton"
+16,Chlorine,Cl,NonMetal,35.453,18.0,17.0,17.0,3.0,17.0,gas,no,Natural,Halogen,0.97,3.16,12.9676,0.00321,172.31,239.11,11.0,Scheele,1774.0,0.479,3.0,7.0,1.50,"0.15, USD per 100 grams"
+17,Argon,Ar,NonMetal,39.948,22.0,18.0,18.0,3.0,18.0,gas,no,Natural,Noble Gas,0.88,0,15.7596,0.00178,83.96,87.3,8.0,Rayleigh and Ramsay,1894.0,0.52,3.0,8.0,2.56,"0.12, USD per standard cubic foot (scf)"
+18,Potassium,K,Metal,39.098,20.0,19.0,19.0,4.0,1.0,solid,no,Natural,Alkali Metal,2.8,0.82,4.3407,0.862,336.5,1032.0,10.0,Davy,1807.0,0.757,4.0,1.0,13.02,"90,000.00, CNY per metric ton"
+19,Calcium,Ca,Metal,40.078,20.0,20.0,20.0,4.0,2.0,solid,no,Natural,Alkaline Earth Metal,2.2,1.0,6.1132,1.54,1112.15,1757.0,14.0,Davy,1808.0,0.647,4.0,2.0,5.93,"41,000.00, CNY per metric ton"
+20,Scandium,Sc,Metal,44.956,24.0,21.0,21.0,4.0,3.0,solid,no,Natural,Transition Metal,2.1,1.36,6.5615,2.99,1812.15,3109.0,15.0,Nilson,1878.0,0.568,4.0,0,"15,000.00","15,000.00, USD per kilogram"
+21,Titanium,Ti,Metal,47.867,26.0,22.0,22.0,4.0,4.0,solid,no,Natural,Transition Metal,2.0,1.54,6.8281,4.54,1933.15,3560.0,9.0,Gregor,1791.0,0.523,4.0,0,3.77,"3.77, USD per kilogram"
+22,Vanadium,V,Metal,50.942,28.0,23.0,23.0,4.0,5.0,solid,no,Natural,Transition Metal,1.9,1.63,6.7462,6.11,2175.15,3680.0,9.0,   del Rio,1801.0,0.489,4.0,0,22.60,"22.60, USD per kilogram"
+23,Chromium,Cr,Metal,51.996,28.0,24.0,24.0,4.0,6.0,solid,no,Natural,Transition Metal,1.9,1.66,6.7665,7.15,2130.15,2944.0,9.0,Vauquelin,1797.0,0.449,4.0,0,7.64,"7,641.67, USD per metric ton"
+24,Manganese,Mn,Metal,54.938,30.0,25.0,25.0,4.0,7.0,solid,no,Natural,Transition Metal,1.8,1.55,7.434,7.44,1519.15,2334.0,11.0,"Gahn, Scheele",1774.0,0.479,4.0,0,2.06,"2.06, USD per kilogram"
+25,Iron,Fe,Metal,55.845,30.0,26.0,26.0,4.0,8.0,solid,no,Natural,Transition Metal,1.7,1.83,7.9024,7.87,1808.15,3134.0,10.0,Prehistoric,0,0.449,4.0,0,0.08,"84.00, USD per metric ton"
+26,Cobalt,Co,Metal,58.933,32.0,27.0,27.0,4.0,9.0,solid,no,Natural,Transition Metal,1.7,1.88,7.881,8.86,1768.15,3200.0,14.0,Brandt,1735.0,0.421,4.0,0,59.50,"59,500.00, USD per metric ton"
+27,Nickel,Ni,Metal,58.693,31.0,28.0,28.0,4.0,10.0,solid,no,Natural,Transition Metal,1.6,1.91,7.6398,8.91,1726.15,3186.0,11.0,Cronstedt,1751.0,0.444,4.0,0,9.19,"9,185.00, USD per metric ton"
+28,Copper,Cu,Metal,63.546,35.0,29.0,29.0,4.0,11.0,solid,no,Natural,Transition Metal,1.6,1.9,7.7264,8.96,1357.75,2835.0,11.0,Prehistoric,0,0.385,4.0,0,5.90,"5,902.00, USD per metric ton"
+29,Zinc,Zn,Metal,65.38,35.0,30.0,30.0,4.0,12.0,solid,no,Natural,Transition Metal,1.5,1.65,9.3942,7.13,692.88,1180.0,15.0,Prehistoric,0,0.388,4.0,0,2.83,"2,826.00, USD per metric ton"
+30,Gallium,Ga,Metal,69.723,39.0,31.0,31.0,4.0,13.0,solid,no,Natural,Metal,1.8,1.81,5.9993,5.91,302.91,2477.0,14.0,de Boisbaudran,1875.0,0.371,4.0,3.0,278.20,"278.20, USD per kilogram"
+31,Germanium,Ge,Metalloid,72.64,41.0,32.0,32.0,4.0,14.0,solid,no,Natural,Metalloid,1.5,2.01,7.8994,5.32,1211.45,3106.0,17.0,Winkler,1886.0,0.32,4.0,4.0,"1,833.00","1,833.30, USD per kilogram"
+32,Arsenic,As,Metalloid,74.922,42.0,33.0,33.0,4.0,15.0,solid,no,Natural,Metalloid,1.3,2.18,9.7886,5.78,1090.15,887.0,14.0,Albertus Magnus,1250.0,0.329,4.0,5.0,1.74,"12,000.00, CNY per metric ton"
+33,Selenium,Se,NonMetal,78.96,45.0,34.0,34.0,4.0,16.0,solid,no,Natural,Nonmetal,1.2,2.55,9.7524,4.81,494.15,958.0,20.0,Berzelius,1817.0,0.321,4.0,6.0,30.37,"210.00, CNY per kilogram"
+34,Bromine,Br,NonMetal,79.904,45.0,35.0,35.0,4.0,17.0,liq,no,Natural,Halogen,1.1,2.96,11.8138,3.12,266.05,332.0,19.0,Balard,1826.0,0.474,4.0,7.0,4.40,"4,400.00, USD per metric ton"
+35,Krypton,Kr,NonMetal,83.798,48.0,36.0,36.0,4.0,18.0,gas,no,Natural,Noble Gas,1.0,0,13.9996,0.00373,115.93,119.93,23.0,Ramsay and Travers,1898.0,0.248,4.0,8.0,1.40,"3.00, EUR per litre"
+36,Rubidium,Rb,Metal,85.468,48.0,37.0,37.0,5.0,1.0,solid,no,Natural,Alkali Metal,3.0,0.82,4.1771,1.53,312.79,961.0,20.0,Bunsen and Kirchoff,1861.0,0.363,5.0,1.0,"14,720.00","1,472.00, USD per 100 grams"
+37,Strontium,Sr,Metal,87.62,50.0,38.0,38.0,5.0,2.0,solid,no,Natural,Alkaline Earth Metal,2.5,0.95,5.6949,2.64,1042.15,1655.0,18.0,Davy,1808.0,0.301,5.0,2.0,5.40,"5,400.00, USD per metric ton"
+38,Yttrium,Y,Metal,88.906,50.0,39.0,39.0,5.0,3.0,solid,no,Natural,Transition Metal,2.3,1.22,6.2173,4.47,1799.15,3609.0,21.0,Gadolin,1794.0,0.298,5.0,0,35.00,"35.00, USD per kilogram"
+39,Zirconium,Zr,Metal,91.224,51.0,40.0,40.0,5.0,4.0,solid,no,Natural,Transition Metal,2.2,1.33,6.6339,6.51,2125.15,4682.0,20.0,Klaproth,1789.0,0.278,5.0,0,23.14,"160.00, CNY per kilogram"
+40,Niobium,Nb,Metal,92.906,52.0,41.0,41.0,5.0,5.0,solid,no,Natural,Transition Metal,2.1,1.6,6.7589,8.57,2741.15,5017.0,24.0,Hatchett,1801.0,0.265,5.0,0,42.00,"42,000.00, USD per metric ton"
+41,Molybdenum,Mo,Metal,95.96,54.0,42.0,42.0,5.0,6.0,solid,no,Natural,Transition Metal,2.0,2.16,7.0924,10.2,2890.15,4912.0,20.0,Scheele,1778.0,0.251,5.0,0,16.00,"16,000.00, USD per metric ton"
+42,Technetium,Tc,Metal,98.0,55.0,43.0,43.0,5.0,7.0,artificial,yes,unknown,Transition Metal,2.0,1.9,7.28,11.5,2473.15,5150.0,23.0,Perrier and Segr�,1937.0,0,5.0,0,price unknown,Unknown
+43,Ruthenium,Ru,Metal,101.07,57.0,44.0,44.0,5.0,8.0,solid,no,Natural,Transition Metal,1.9,2.2,7.3605,12.4,2523.15,4423.0,16.0,Klaus,1844.0,0.238,5.0,0,"3,054.00","95.00, USD per troy ounce"
+44,Rhodium,Rh,Metal,102.906,58.0,45.0,45.0,5.0,9.0,solid,no,Natural,Transition Metal,1.8,2.28,7.4589,12.4,2239.15,3968.0,20.0,Wollaston,1803.0,0.243,5.0,0,"76,840.00","2,390.00, USD per troy ounce"
+45,Palladium,Pd,Metal,106.42,60.0,46.0,46.0,5.0,10.0,solid,no,Natural,Transition Metal,1.8,2.2,8.3369,12.0,1825.15,3236.0,21.0,Wollaston,1803.0,0.244,5.0,0,"34,401.00","1,070.00, USD per troy ounce"
+46,Silver,Ag,Metal,107.868,61.0,47.0,47.0,5.0,11.0,solid,no,Natural,Transition Metal,1.8,1.93,7.5762,10.5,1234.15,2435.0,27.0,Prehistoric,0,0.235,5.0,0,462.00,"14.37, USD per troy ounce"
+47,Cadmium,Cd,Metal,112.411,64.0,48.0,48.0,5.0,12.0,solid,no,Natural,Transition Metal,1.7,1.69,8.9938,8.69,594.33,1040.0,22.0,Stromeyer,1817.0,0.232,5.0,0,1.98,"13,700.00, CNY per metric ton"
+48,Indium,In,Metal,114.818,66.0,49.0,49.0,5.0,13.0,solid,no,Natural,Metal,2.0,1.78,5.7864,7.31,429.91,2345.0,34.0,Reich and Richter,1863.0,0.233,5.0,3.0,341.60,"341.60, USD per kilogram"
+49,Tin,Sn,Metal,118.71,69.0,50.0,50.0,5.0,14.0,solid,no,Natural,Metal,1.7,1.96,7.3439,7.29,505.21,2875.0,28.0,Prehistoric,0,0.228,5.0,4.0,20.00,"20,000.00, USD per metric ton"
+50,Antimony,Sb,Metalloid,121.76,71.0,51.0,51.0,5.0,15.0,solid,no,Natural,Metalloid,1.5,2.05,8.6084,6.69,904.05,1860.0,29.0,Early historic times,0,0.207,5.0,5.0,7.05,"48,750.00, CNY per metric ton"
+51,Tellurium,Te,Metalloid,127.6,76.0,52.0,52.0,5.0,16.0,solid,no,Natural,Metalloid,1.4,2.1,9.0096,6.23,722.8,1261.0,29.0,von Reichenstein,1782.0,0.202,5.0,6.0,55.68,"385.00, CNY per kilogram"
+52,Iodine,I,NonMetal,126.904,74.0,53.0,53.0,5.0,17.0,solid,no,Natural,Halogen,1.3,2.66,10.4513,4.93,386.65,457.4,24.0,Courtois,1811.0,0.214,5.0,7.0,28.00,"28.00, USD per kilogram"
+53,Xenon,Xe,NonMetal,131.293,77.0,54.0,54.0,5.0,18.0,gas,no,Natural,Noble Gas,1.2,0,12.1298,0.00589,161.45,165.03,31.0,Ramsay and Travers,1898.0,0.158,5.0,8.0,9.20,"25.00, EUR per litre"
+54,Caesium,0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,"73,400.00","73.40, USD per gram"
+55,Barium,Ba,Metal,137.327,81.0,56.0,56.0,6.0,2.0,solid,no,Natural,Alkaline Earth Metal,2.8,0.89,5.2117,3.59,1002.15,2170.0,25.0,Davy,1808.0,0.204,6.0,2.0,550.00,"55.00, USD per 100 grams"
+56,Lanthanum,La,Metal,138.905,82.0,57.0,57.0,6.0,3.0,solid,no,Natural,Lanthanide,2.7,1.1,5.5769,6.15,1193.15,3737.0,19.0,Mosander,1839.0,0.195,6.0,0,7.00,"7.00, USD per kilogram"
+57,Cerium,Ce,Metal,140.116,82.0,58.0,58.0,6.0,0,solid,no,Natural,Lanthanide,2.7,1.12,5.5387,6.77,1071.15,3716.0,19.0,Berzelius,1803.0,0.192,6.0,0,7.00,"7.00, USD per kilogram"
+58,Praseodymium,Pr,Metal,140.908,82.0,59.0,59.0,6.0,0,solid,no,Natural,Lanthanide,2.7,1.13,5.473,6.77,1204.15,3793.0,15.0,von Welsbach,1885.0,0.193,6.0,0,85.00,"85.00, USD per kilogram"
+59,Neodymium,Nd,Metal,144.242,84.0,60.0,60.0,6.0,0,solid,no,Natural,Lanthanide,2.6,1.14,5.525,7.01,1289.15,3347.0,16.0,von Welsbach,1885.0,0.19,6.0,0,60.00,"60.00, USD per kilogram"
+60,Promethium,Pm,Metal,145.0,84.0,61.0,61.0,6.0,0,artificial,yes,unknown,Lanthanide,2.6,1.13,5.582,7.26,1204.15,3273.0,14.0,Marinsky et al.,1945.0,0,6.0,0,price unknown,Unknown
+61,Samarium,Sm,Metal,150.36,88.0,62.0,62.0,6.0,0,solid,no,Natural,Lanthanide,2.6,1.17,5.6437,7.52,1345.15,2067.0,17.0,Boisbaudran,1879.0,0.197,6.0,0,14.35,"14.35, USD per kilogram"
+62,Europium,Eu,Metal,151.964,89.0,63.0,63.0,6.0,0,solid,no,Natural,Lanthanide,2.6,1.2,5.6704,5.24,1095.15,1802.0,21.0,Demarcay,1901.0,0.182,6.0,0,258.00,"258.00, USD per kilogram"
+63,Gadolinium,Gd,Metal,157.25,93.0,64.0,64.0,6.0,0,solid,no,Natural,Lanthanide,2.5,1.2,6.1501,7.9,1585.15,3546.0,17.0,de Marignac,1880.0,0.236,6.0,0,55.00,"55.00, USD per kilogram"
+64,Terbium,Tb,Metal,158.925,94.0,65.0,65.0,6.0,0,solid,no,Natural,Lanthanide,2.5,1.2,5.8638,8.23,1630.15,3503.0,24.0,Mosander,1843.0,0.182,6.0,0,550.00,"550.00, USD per kilogram"
+65,Dysprosium,Dy,Metal,162.5,97.0,66.0,66.0,6.0,0,solid,no,Natural,Lanthanide,2.5,1.22,5.9389,8.55,1680.15,2840.0,21.0,de Boisbaudran,1886.0,0.17,6.0,0,350.00,"350.00, USD per kilogram"
+66,Holmium,Ho,Metal,164.93,98.0,67.0,67.0,6.0,0,solid,no,Natural,Lanthanide,2.5,1.23,6.0215,8.8,1743.15,2993.0,29.0,Delafontaine and Soret,1878.0,0.165,6.0,0,"1,400.00","140.00, USD per 100 grams"
+67,Erbium,Er,Metal,167.259,99.0,68.0,68.0,6.0,0,solid,no,Natural,Lanthanide,2.5,1.24,6.1077,9.07,1795.15,3503.0,16.0,Mosander,1843.0,0.168,6.0,0,95.00,"95.00, USD per kilogram"
+68,Thulium,Tm,Metal,168.934,100.0,69.0,69.0,6.0,0,solid,no,Natural,Lanthanide,2.4,1.25,6.1843,9.32,1818.15,2223.0,18.0,Cleve,1879.0,0.16,6.0,0,"6,200.00","620.00, USD per 100 grams"
+69,Ytterbium,Yb,Metal,173.054,103.0,70.0,70.0,6.0,0,solid,no,Natural,Lanthanide,2.4,1.1,6.2542,6.97,1097.15,1469.0,16.0,Marignac,1878.0,0.155,6.0,0,"1,600.00","160.00, USD per 100 grams"
+70,Lutetium,Lu,Metal,174.967,104.0,71.0,71.0,6.0,0,solid,no,Natural,Lanthanide,2.3,1.27,5.4259,9.84,1936.15,3675.0,22.0,Urbain/ von Welsbach,1907.0,0.154,6.0,0,"6,269.00","195.00, USD per troy ounce"
+71,Hafnium,Hf,Metal,178.49,106.0,72.0,72.0,6.0,4.0,solid,no,Natural,Transition Metal,2.2,1.3,6.8251,13.3,2500.15,4876.0,17.0,Coster and von Hevesy,1923.0,0.144,6.0,0,"1,414.00","1,414.40, USD per kilogram"
+72,Tantalum,Ta,Metal,180.948,108.0,73.0,73.0,6.0,5.0,solid,no,Natural,Transition Metal,2.1,1.5,7.5496,16.7,3269.15,5731.0,19.0,Ekeberg,1801.0,0.14,6.0,0,238.00,"238.00, USD per kilogram"
+73,Tungsten,0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,25.52,"25.52, USD per kilogram"
+74,Rhenium,Re,Metal,186.207,111.0,75.0,75.0,6.0,7.0,solid,no,Natural,Transition Metal,2.0,1.9,7.8335,21.0,3453.15,5869.0,21.0,"Noddack, Berg, and Tacke",1925.0,0.137,6.0,0,"1,635.00","1,635.20, USD per kilogram"
+75,Osmium,Os,Metal,190.23,114.0,76.0,76.0,6.0,8.0,solid,no,Natural,Transition Metal,1.9,2.2,8.4382,22.6,3300.15,5285.0,19.0,Tennant,1803.0,0.13,6.0,0,"12,860.00","400.00, USD per troy ounce"
+76,Iridium,Ir,Metal,192.217,115.0,77.0,77.0,6.0,9.0,solid,no,Natural,Transition Metal,1.9,2.2,8.967,22.6,2716.15,4701.0,25.0,Tennant,1804.0,0.131,6.0,0,"31,186.00","970.00, USD per troy ounce"
+77,Platinum,Pt,Metal,195.084,117.0,78.0,78.0,6.0,10.0,solid,no,Natural,Transition Metal,1.8,2.28,8.9587,21.5,2045.15,4098.0,32.0,Ulloa/Wood,1735.0,0.133,6.0,0,"26,492.00","824.00, USD per troy ounce"
+78,Gold,Au,Metal,196.967,118.0,79.0,79.0,6.0,11.0,solid,no,Natural,Transition Metal,1.8,2.54,9.2255,19.3,1337.73,3129.0,21.0,Prehistoric,0,0.129,6.0,0,"38,189.00","1,187.80, USD per troy ounce"
+79,Mercury,Hg,Metal,200.59,121.0,80.0,80.0,6.0,12.0,liq,no,Natural,Transition Metal,1.8,2.0,10.4375,13.5,234.43,630.0,26.0,Prehistoric,0,0.14,6.0,0,38.44,"1,325.31, USD per flask (34.473 kg)"
+80,Thallium,Tl,Metal,204.383,123.0,81.0,81.0,6.0,13.0,solid,no,Natural,Metal,2.1,2.04,6.1082,11.9,577.15,1746.0,28.0,Crookes,1861.0,0.129,6.0,3.0,"7,400.00","7,400.00, USD per kilogram"
+81,Lead,Pb,Metal,207.2,125.0,82.0,82.0,6.0,14.0,solid,no,Natural,Metal,1.8,2.33,7.4167,11.3,600.75,2022.0,29.0,Prehistoric,0,0.129,6.0,4.0,2.29,"2,294.00, USD per metric ton"
+82,Bismuth,Bi,Metal,208.98,126.0,83.0,83.0,6.0,15.0,solid,no,Natural,Metal,1.6,2.02,7.2856,9.81,544.67,1837.0,19.0,Geoffroy the Younger,1753.0,0.122,6.0,5.0,10.34,"71,500.00, CNY per metric ton"
+83,Polonium,Po,Metalloid,210.0,126.0,84.0,84.0,6.0,16.0,solid,yes,Natural,Metalloid,1.5,2.0,8.417,9.32,527.15,1235.0,34.0,Curie,1898.0,0,6.0,6.0,price unknown,Unknown
+84,Astatine,At,NonMetal,210.0,125.0,85.0,85.0,6.0,17.0,solid,yes,Natural,Noble Gas,1.4,2.2,9.3,7.0,575.15,610.0,21.0,Corson et al.,1940.0,0,6.0,7.0,price unknown,Unknown
+85,Radon,Rn,Metal,222.0,136.0,86.0,86.0,6.0,18.0,gas,yes,Natural,Alkali Metal,1.3,0,10.7485,0.00973,202.15,211.3,20.0,Dorn,1900.0,0.094,6.0,8.0,price unknown,Unknown
+86,Francium,Fr,Metal,223.0,136.0,87.0,87.0,7.0,1.0,solid,yes,Natural,Alkaline Earth Metal,0,0.7,4.0727,1.87,300.15,950.0,21.0,Perey,1939.0,0,7.0,1.0,price unknown,Unknown
+87,Radium,Ra,Metal,226.0,138.0,88.0,88.0,7.0,2.0,solid,yes,Natural,Actinide,0,0.9,5.2784,5.5,973.15,2010.0,15.0,Pierre and Marie Curie,1898.0,0,7.0,2.0,price unknown,Unknown
+88,Actinium,Ac,Metal,227.0,138.0,89.0,89.0,7.0,3.0,solid,yes,Natural,Actinide,0,1.1,5.17,10.1,1323.15,3471.0,11.0,Debierne/Giesel,1899.0,0.12,7.0,0,price unknown,Unknown
+89,Thorium,Th,Metal,232.038,142.0,90.0,90.0,7.0,0,solid,yes,Natural,Actinide,0,1.3,6.3067,11.7,2028.15,5061.0,12.0,Berzelius,1828.0,0.113,7.0,0,176.00,"176.00, USD per kilogram"
+90,Protactinium,Pa,Metal,231.036,140.0,91.0,91.0,7.0,0,solid,yes,Natural,Actinide,0,1.5,5.89,15.4,1873.15,4300.0,14.0,Hahn and Meitner,1917.0,0,7.0,0,price unknown,Unknown
+91,Uranium (1),0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,57.76,"26.20, USD per pound"
+92,Neptunium,Np,Metal,237.0,144.0,93.0,93.0,7.0,0,artificial,yes,unknown,Actinide,0,1.36,6.2657,20.5,913.15,4273.0,153.0,McMillan and Abelson,1940.0,0,7.0,0,price unknown,Unknown
+93,Plutonium,Pu,Metal,244.0,150.0,94.0,94.0,7.0,0,artificial,yes,unknown,Actinide,0,1.28,6.0262,19.8,913.15,3501.0,163.0,Seaborg et al.,1940.0,0,7.0,0,price unknown,Unknown
+94,Americium,Am,Metal,243.0,148.0,95.0,95.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,5.9738,13.7,1267.15,2880.0,133.0,Seaborg et al.,1944.0,0,7.0,0,price unknown,Unknown
+95,Curium,Cm,Metal,247.0,151.0,96.0,96.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,5.9915,13.5,1340.15,3383.0,133.0,Seaborg et al.,1944.0,0,7.0,0,price unknown,Unknown
+96,Berkelium,Bk,Metal,247.0,150.0,97.0,97.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,6.1979,14.8,1259.15,983.0,83.0,Seaborg et al.,1949.0,0,7.0,0,price unknown,Unknown
+97,Californium,Cf,Metal,251.0,153.0,98.0,98.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,6.2817,15.1,1925.15,1173.0,123.0,Seaborg et al.,1950.0,0,7.0,0,price unknown,Unknown
+98,Einsteinium,Es,Metal,252.0,153.0,99.0,99.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,6.42,13.5,1133.15,0,123.0,Ghiorso et al.,1952.0,0,7.0,0,price unknown,Unknown
+99,Fermium,Fm,Metal,257.0,157.0,100.0,100.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,6.5,0,0,0,103.0,Ghiorso et al.,1953.0,0,7.0,0,price unknown,Unknown
+100,Mendelevium,Md,Metal,258.0,157.0,101.0,101.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,6.58,0,0,0,33.0,Ghiorso et al.,1955.0,0,7.0,0,price unknown,Unknown
+101,Nobelium,No,Metal,259.0,157.0,102.0,102.0,7.0,0,artificial,yes,unknown,Actinide,0,1.3,6.65,0,0,0,73.0,Ghiorso et al.,1958.0,0,7.0,0,price unknown,Unknown
+102,Lawrencium,Lr,Metal,262.0,159.0,103.0,103.0,7.0,0,artificial,yes,unknown,Actinide,0,0,0,0,0,0,203.0,Ghiorso et al.,1961.0,0,7.0,0,price unknown,Unknown
+103,Rutherfordium,Rf,Metal,261.0,157.0,104.0,104.0,7.0,4.0,artificial,yes,unknown,Transactinide,0,0,0,18.1,0,0,0,Ghiorso et al.,1969.0,0,7.0,0,price unknown,Unknown
+104,Dubnium,Db,Metal,262.0,157.0,105.0,105.0,7.0,5.0,artificial,yes,unknown,Transactinide,0,0,0,39.0,0,0,0,Ghiorso et al.,1970.0,0,7.0,0,price unknown,Unknown
+105,Seaborgium,Sg,Metal,266.0,160.0,106.0,106.0,7.0,6.0,artificial,yes,unknown,Transactinide,0,0,0,35.0,0,0,0,Ghiorso et al.,1974.0,0,7.0,0,price unknown,Unknown
+106,Bohrium,Bh,Metal,264.0,157.0,107.0,107.0,7.0,7.0,artificial,yes,unknown,Transactinide,0,0,0,37.0,0,0,0,Armbruster and M�nzenberg,1981.0,0,7.0,0,price unknown,Unknown
+107,Hassium,Hs,Metal,267.0,159.0,108.0,108.0,7.0,8.0,artificial,yes,unknown,Transactinide,0,0,0,41.0,0,0,0,Armbruster and M�nzenberg,1983.0,0,7.0,0,price unknown,Unknown
+108,Meitnerium,Mt,Metal,268.0,159.0,109.0,109.0,7.0,9.0,artificial,yes,unknown,Transactinide,0,0,0,35.0,0,0,0,"GSI, Darmstadt, West Germany",1982.0,0,7.0,0,price unknown,Unknown
+109,Darmstadtium,0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,price unknown,Unknown
+110,Roentgenium,0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,price unknown,Unknown
+111,Copernicium,0,Unknown,0,0,0,0,0,0,0,no,unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,price unknown,Unknown
+112,Nihonium,Nh,Metal,284.0,171.0,113.0,113.0,7.0,13.0,artificial,yes,unknown,0,0,0,0,0,0,0,0,0,2004.0,0,7.0,3.0,price unknown,Unknown
+113,Flerovium,Fl,Metal,289.0,175.0,114.0,114.0,7.0,14.0,artificial,yes,unknown,Transactinide,0,0,0,0,0,0,0,0,1999.0,0,7.0,4.0,price unknown,Unknown
+114,Moscovium,Mc,Metal,288.0,173.0,115.0,115.0,7.0,15.0,artificial,yes,unknown,0,0,0,0,0,0,0,0,0,2010.0,0,7.0,5.0,price unknown,Unknown
+115,Livermorium,Lv,Metal,292.0,176.0,116.0,116.0,7.0,16.0,artificial,yes,unknown,Transactinide,0,0,0,0,0,0,0,0,2000.0,0,7.0,6.0,price unknown,Unknown
+116,Tennessine,Ts,NonMetal,295.0,178.0,117.0,117.0,7.0,17.0,artificial,yes,unknown,0,0,0,0,0,0,0,0,0,2010.0,0,7.0,7.0,price unknown,Unknown
+117,Oganesson,Og,NonMetal,294.0,176.0,118.0,118.0,7.0,18.0,artificial,yes,unknown,Noble Gas,0,0,0,0,0,0,0,0,2006.0,0,7.0,8.0,price unknown,Unknown
