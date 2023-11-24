@@ -1,0 +1,119 @@
+Symbol,Element,PriceUSD / kg,Reference price,Reference price
+H,Hydrogen,23.64,0.06,USD per standard cubic foot (scf)
+He,Helium,40.39,7.21,USD per normal cubic meter
+Li,Lithium,115.70,"800,000.00",CNY per metric ton
+Be,Beryllium,831.60,"5,750.00",CNY per kilogram
+B,Boron,"2,386.00","16,500.00",CNY per kilogram
+C,Carbon,24.00,2.40,USD per 100 grams
+N,Nitrogen,2.77,0.09,USD per standard cubic foot (scf)
+O,Oxygen,0.64,0.02,USD per standard cubic foot (scf)
+F,Fluorine,"1,900.00",190.00,USD per 100 grams
+Ne,Neon,629.90,504.00,EUR per normal cubic meter
+Na,Sodium,3.04,"21,000.00",CNY per metric ton
+Mg,Magnesium,2.26,2.26,USD per kilogram
+Al,Aluminium,1.91,"1,911.00",USD per metric ton
+Si,Silicon,1.91,"1,800.61",EUR per metric ton
+P,Phosphorus,300.00,30.00,USD per 100 grams
+S,Sulfur,0.10,100.00,USD per metric ton
+Cl,Chlorine,1.50,0.15,USD per 100 grams
+Ar,Argon,2.56,0.12,USD per standard cubic foot (scf)
+K,Potassium,13.02,"90,000.00",CNY per metric ton
+Ca,Calcium,5.93,"41,000.00",CNY per metric ton
+Sc,Scandium,"15,000.00","15,000.00",USD per kilogram
+Ti,Titanium,3.77,3.77,USD per kilogram
+V,Vanadium,22.60,22.60,USD per kilogram
+Cr,Chromium,7.64,"7,641.67",USD per metric ton
+Mn,Manganese,2.06,2.06,USD per kilogram
+Fe,Iron,0.08,84.00,USD per metric ton
+Co,Cobalt,59.50,"59,500.00",USD per metric ton
+Ni,Nickel,9.19,"9,185.00",USD per metric ton
+Cu,Copper,5.90,"5,902.00",USD per metric ton
+Zn,Zinc,2.83,"2,826.00",USD per metric ton
+Ga,Gallium,278.20,278.20,USD per kilogram
+Ge,Germanium,"1,833.00","1,833.30",USD per kilogram
+As,Arsenic,1.74,"12,000.00",CNY per metric ton
+Se,Selenium,30.37,210.00,CNY per kilogram
+Br,Bromine,4.40,"4,400.00",USD per metric ton
+Kr,Krypton,1.40,3.00,EUR per litre
+Rb,Rubidium,"14,720.00","1,472.00",USD per 100 grams
+Sr,Strontium,5.40,"5,400.00",USD per metric ton
+Y,Yttrium,35.00,35.00,USD per kilogram
+Zr,Zirconium,23.14,160.00,CNY per kilogram
+Nb,Niobium,42.00,"42,000.00",USD per metric ton
+Mo,Molybdenum,16.00,"16,000.00",USD per metric ton
+Tc,Technetium,price unknown
+Ru,Ruthenium,"3,054.00",95.00,USD per troy ounce
+Rh,Rhodium,"76,840.00","2,390.00",USD per troy ounce
+Pd,Palladium,"34,401.00","1,070.00",USD per troy ounce
+Ag,Silver,462.00,14.37,USD per troy ounce
+Cd,Cadmium,1.98,"13,700.00",CNY per metric ton
+In,Indium,341.60,341.60,USD per kilogram
+Sn,Tin,20.00,"20,000.00",USD per metric ton
+Sb,Antimony,7.05,"48,750.00",CNY per metric ton
+Te,Tellurium,55.68,385.00,CNY per kilogram
+I,Iodine,28.00,28.00,USD per kilogram
+Xe,Xenon,9.20,25.00,EUR per litre
+Cs,Caesium,"73,400.00",73.40,USD per gram
+Ba,Barium,550.00,55.00,USD per 100 grams
+La,Lanthanum,7.00,7.00,USD per kilogram
+Ce,Cerium,7.00,7.00,USD per kilogram
+Pr,Praseodymium,85.00,85.00,USD per kilogram
+Nd,Neodymium,60.00,60.00,USD per kilogram
+Pm,Promethium,price unknown
+Sm,Samarium,14.35,14.35,USD per kilogram
+Eu,Europium,258.00,258.00,USD per kilogram
+Gd,Gadolinium,55.00,55.00,USD per kilogram
+Tb,Terbium,550.00,550.00,USD per kilogram
+Dy,Dysprosium,350.00,350.00,USD per kilogram
+Ho,Holmium,"1,400.00",140.00,USD per 100 grams
+Er,Erbium,95.00,95.00,USD per kilogram
+Tm,Thulium,"6,200.00",620.00,USD per 100 grams
+Yb,Ytterbium,"1,600.00",160.00,USD per 100 grams
+Lu,Lutetium,"6,269.00",195.00,USD per troy ounce
+Hf,Hafnium,"1,414.00","1,414.40",USD per kilogram
+Ta,Tantalum,238.00,238.00,USD per kilogram
+W,Tungsten,25.52,25.52,USD per kilogram
+Re,Rhenium,"1,635.00","1,635.20",USD per kilogram
+Os,Osmium,"12,860.00",400.00,USD per troy ounce
+Ir,Iridium,"31,186.00",970.00,USD per troy ounce
+Pt,Platinum,"26,492.00",824.00,USD per troy ounce
+Au,Gold,"38,189.00","1,187.80",USD per troy ounce
+Hg,Mercury,38.44,"1,325.31",USD per flask (34.473 kg)
+Tl,Thallium,"7,400.00","7,400.00",USD per kilogram
+Pb,Lead,2.29,"2,294.00",USD per metric ton
+Bi,Bismuth,10.34,"71,500.00",CNY per metric ton
+Po,Polonium,price unknown
+At,Astatine,price unknown
+Rn,Radon,price unknown
+Fr,Francium,price unknown
+Ra,Radium,price unknown
+Ac,Actinium,price unknown
+Th,Thorium,176.00,176.00,USD per kilogram
+Pa,Protactinium,price unknown
+U,Uranium (1),57.76,26.20,USD per pound
+Np,Neptunium,price unknown
+Pu,Plutonium,price unknown
+Am,Americium,price unknown
+Cm,Curium,price unknown
+Bk,Berkelium,price unknown
+Cf,Californium,price unknown
+Es,Einsteinium,price unknown
+Fm,Fermium,price unknown
+Md,Mendelevium,price unknown
+No,Nobelium,price unknown
+Lr,Lawrencium,price unknown
+Rf,Rutherfordium,price unknown
+Db,Dubnium,price unknown
+Sg,Seaborgium,price unknown
+Bh,Bohrium,price unknown
+Hs,Hassium,price unknown
+Mt,Meitnerium,price unknown
+Ds,Darmstadtium,price unknown
+Rg,Roentgenium,price unknown
+Cn,Copernicium,price unknown
+Nh,Nihonium,price unknown
+Fl,Flerovium,price unknown
+Mc,Moscovium,price unknown
+Lv,Livermorium,price unknown
+Ts,Tennessine,price unknown
+Og,Oganesson,price unknown
